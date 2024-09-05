@@ -225,7 +225,7 @@ header("Content-Security-Policy: $csp");
                         <i class="fa fa-message nav-icon"></i>
                     </div>
                     <a href="profile.php?fullname=<?php echo urlencode($sanitized_fullname); ?>" class="user-profile">      <h4 ><?php echo $sanitized_fullname; ?></h4></a>
-                    <img src="./img/avatar.PNG" alt="user" />
+                    <img src="./img/avatar.png" alt="user" />
                 </div>
  
                 <div class="active-calories">

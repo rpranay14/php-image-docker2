@@ -116,7 +116,9 @@ $isLoggedIn = isset($_SESSION['fullname']);
     
     .thumb {
         width: 100%;
-        height: 200px; /* Adjust height as needed */
+        background-position: center;
+        background-size:cover;
+        /* Adjust height as needed */
     }
     
         </style>
